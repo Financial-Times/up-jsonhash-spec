@@ -8,3 +8,4 @@ The JSON must be endoced as UTF8. No whitespace, newlines, or carriage returns s
 
 This JSON must be hashed using the 128 bit variant of MurmurHash3.
 
+The resulting hash must be encoded as a hex string, with alpha characters in lower case.
